@@ -1,0 +1,12 @@
+# Simulink cache
+*.slxc
+
+# MATLAB auto-save
+*.asv
+
+# Data files (MathWorks license — do not redistribute)
+*.mat
+
+# MATLAB generated files
+*.mex*
+*.mexw64
